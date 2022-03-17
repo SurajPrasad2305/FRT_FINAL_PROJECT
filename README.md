@@ -6,10 +6,10 @@ This is a web based application developed for the Healthcare group named Wellcar
 ### This web  based application project has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Futureskills Prime, QUESS, Github and EY.
 Here are the required links:-
 
-**Project URL : https://proud-bay-056112c10.1.azurestaticapps.net/index.html **
+**Project URL :** **https://proud-bay-056112c10.1.azurestaticapps.net/index.html** 
 
 
-**Demo Video URL : https://drive.google.com/file/d/1VEHBNWeVOll4n1b2W6S1nIVZYGfsYpBK/view?usp=sharing **
+**Demo Video URL :** **https://drive.google.com/file/d/1VEHBNWeVOll4n1b2W6S1nIVZYGfsYpBK/view?usp=sharing**
 
 ---
 ### AZURE Services Used :
